@@ -18,7 +18,7 @@ from sklearn.svm import SVC
 from sklearn.neural_network import MLPClassifier
 import scipy.stats as stats
 from imblearn.over_sampling import SMOTE 
-os.chdir("C:/Users/584845/Desktop/edwisor")
+os.chdir("C:/Users/.....")
 data=pd.read_csv("caravan-insurance-challenge.csv")
 #data_train=data.loc[data["ORIGIN"]=="train"]
 #data_test=data.loc[data["ORIGIN"]=="test"]
